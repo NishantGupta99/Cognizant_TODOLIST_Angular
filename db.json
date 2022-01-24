@@ -1,0 +1,64 @@
+{
+  "users": [
+    {
+      "firstname": "Ram",
+      "todos": "has to get his car serviced",
+      "id": 1
+    },
+    {
+      "firstname": "john",
+      "todos": "has to get some eggs",
+      "id": 2
+    },
+    {
+      "firstname": "Nishant",
+      "todos": "has to get his laundry done",
+      "id": 3
+    },
+    {
+      "firstname": "Akshay",
+      "todos": "wash my car",
+      "id": 4
+    },
+    {
+      "firstname": "SAm",
+      "todos": "go to the gym",
+      "id": 5
+    },
+    {
+      "firstname": "Vijay",
+      "todos": "get a hair cut",
+      "id": 6
+    },
+    {
+      "firstname": "Nishant",
+      "todos": "get a haircut",
+      "id": 7
+    },
+    {
+      "firstname": "Pariwesh",
+      "todos": "Buy meat",
+      "id": 8
+    },
+    {
+      "firstname": "John",
+      "todos": "buy grocery",
+      "id": 9
+    },
+    {
+      "firstname": "peter",
+      "todos": "wants to buy some food ",
+      "id": 10
+    },
+    {
+      "firstname": "john",
+      "todos": "wash your cycle",
+      "id": 11
+    },
+    {
+      "firstname": "john",
+      "todos": "wash your cycle",
+      "id": 12
+    }
+  ]
+}
